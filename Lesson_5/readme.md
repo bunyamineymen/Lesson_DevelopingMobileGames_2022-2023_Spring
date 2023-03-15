@@ -3,7 +3,7 @@
 
 # Lesson 1
 
-Developing Mobile Game lesson for Ankara University - Week 4
+Developing Mobile Game lesson for Ankara University - Week 5
 
 ## Demo 1
 
