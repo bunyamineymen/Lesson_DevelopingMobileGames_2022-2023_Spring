@@ -5,52 +5,12 @@
 
 Developing Mobile Game lesson for Ankara university - Week 3
 
-In this lesson we are analysing these projects.
 
-You are not responsible for this week lecture.
-
-https://assetstore.unity.com/packages/templates/tutorials/cinematic-studio-sample-192852
-
-https://assetstore.unity.com/packages/essentials/tutorial-projects/corridor-lighting-example-33630
-
-https://assetstore.unity.com/packages/templates/automotive-hmi-template-201095
-
-https://assetstore.unity.com/packages/essentials/tutorial-projects/tower-defense-template-107692
-
-https://assetstore.unity.com/packages/3d/environments/unity-terrain-hdrp-demo-scene-213198
-
-https://assetstore.unity.com/packages/essentials/tutorial-projects/tanks-tutorial-46209
-
-https://assetstore.unity.com/packages/3d/vehicles/karting-microgame-urp-150956
-
-https://assetstore.unity.com/packages/essentials/starter-assets-third-person-character-controller-196526
-
-Also It would be good for you to analyze them too. (Not Responsible)
-
-https://assetstore.unity.com/packages/3d/danger-zone-lego-microgame-add-ons-179857
-
-https://assetstore.unity.com/packages/2d/2d-beginner-tutorial-resources-140167
-
-https://assetstore.unity.com/packages/templates/tutorials/creator-kit-beginner-code-urp-151986
-
-https://assetstore.unity.com/packages/templates/tutorials/endless-runner-sample-game-87901
-
-https://assetstore.unity.com/packages/essentials/tutorial-projects/ui-toolkit-sample-dragon-crashers-231178
-
-https://assetstore.unity.com/packages/essentials/ui-samples-25468
-
-https://assetstore.unity.com/packages/templates/fps-microgame-156015
-
-https://assetstore.unity.com/packages/templates/tutorials/creator-kit-puzzle-149311
-
-https://assetstore.unity.com/packages/2d/textures-materials/sky/hdri-pack-72511
-
-https://assetstore.unity.com/packages/3d/santa-s-brickshop-lego-microgame-add-ons-183389
+## Set IDE for development in unity.
 
 
 
-
-### Set IDE for development in unity.
+### Set IDE for development in Unity.
 
 Set Visual Studio for Unity environment
 Edit - Preference - External Script Editor
@@ -138,10 +98,6 @@ The Console Window displays errors, warnings, and other messages the Editor gene
   </tr>
  </table>
 
-
-
-
-
 [👉 Learn more about Singleton Pattern](http://www.unitygeek.com/unity_c_singleton/)
 
 [👉 Learn more about Singleton Pattern](https://blog.devgenius.io/the-singleton-pattern-in-unity-b7b3bc051a62)
@@ -149,6 +105,45 @@ The Console Window displays errors, warnings, and other messages the Editor gene
 [👉 Learn more about Singleton Pattern](https://sneakydaggergames.medium.com/how-to-create-the-singleton-design-pattern-in-unity-c-728d26e0cf73)
 
 
+In this lesson we are analysed these projects. You are not responsible for this week lecture.
+
+https://assetstore.unity.com/packages/templates/tutorials/cinematic-studio-sample-192852
+
+https://assetstore.unity.com/packages/essentials/tutorial-projects/corridor-lighting-example-33630
+
+https://assetstore.unity.com/packages/templates/automotive-hmi-template-201095
+
+https://assetstore.unity.com/packages/essentials/tutorial-projects/tower-defense-template-107692
+
+https://assetstore.unity.com/packages/3d/environments/unity-terrain-hdrp-demo-scene-213198
+
+https://assetstore.unity.com/packages/essentials/tutorial-projects/tanks-tutorial-46209
+
+https://assetstore.unity.com/packages/3d/vehicles/karting-microgame-urp-150956
+
+https://assetstore.unity.com/packages/essentials/starter-assets-third-person-character-controller-196526
+
+Also It would be good for you to analyze them too. (Not Responsible)
+
+https://assetstore.unity.com/packages/3d/danger-zone-lego-microgame-add-ons-179857
+
+https://assetstore.unity.com/packages/2d/2d-beginner-tutorial-resources-140167
+
+https://assetstore.unity.com/packages/templates/tutorials/creator-kit-beginner-code-urp-151986
+
+https://assetstore.unity.com/packages/templates/tutorials/endless-runner-sample-game-87901
+
+https://assetstore.unity.com/packages/essentials/tutorial-projects/ui-toolkit-sample-dragon-crashers-231178
+
+https://assetstore.unity.com/packages/essentials/ui-samples-25468
+
+https://assetstore.unity.com/packages/templates/fps-microgame-156015
+
+https://assetstore.unity.com/packages/templates/tutorials/creator-kit-puzzle-149311
+
+https://assetstore.unity.com/packages/2d/textures-materials/sky/hdri-pack-72511
+
+https://assetstore.unity.com/packages/3d/santa-s-brickshop-lego-microgame-add-ons-183389
 
 
 
