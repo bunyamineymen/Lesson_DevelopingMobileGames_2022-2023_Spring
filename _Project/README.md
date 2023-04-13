@@ -98,6 +98,7 @@ And Finally release your games on App Gallery.
 References
 
 Documentation https://evilminddevs.gitbook.io/hms-unity-plugin/
+
 Video Tutorial: https://www.youtube.com/watch?v=ZskQf4quNhU&ab_channel=AlihanErsoy
 https://evilminddevs.gitbook.io/hms-unity-plugin/references/reference-articles
 
