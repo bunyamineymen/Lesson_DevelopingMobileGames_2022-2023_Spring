@@ -93,6 +93,9 @@ Game Desing + Level Design (min 2 different levels with endless loop) = 25
 
 Integrate https://github.com/EvilMindDevs/hms-unity-plugin plugin to your project.
 
+First of all register App Gallery Connect
+ https://developer.huawei.com/consumer/en/service/josp/agc/index.html,,AppGalleryConnect#/
+
 And Finally release your games on App Gallery.
 
 References
