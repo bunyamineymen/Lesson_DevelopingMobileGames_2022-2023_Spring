@@ -153,6 +153,25 @@ You can get help from [Unity Asset Store](https://assetstore.unity.com/) for fre
 
 # Announcements
 
+--------------------
+
+You cannot test hms-unity-plugin on Unity editor.
+
+For this
+
+You need
+
+If you dont have android device :
+
+Cloud Debugging
+https://developer.huawei.com/consumer/en/doc/development/AppGallery-connect-Guides/agc-clouddebug-introduction-0000001057034023
+
+If you want to use Physical Android Device:
+
+You have to download HMS Core to device.
+
+--------------------
+
 You can ask technical questions to
 
 hilal#4646
