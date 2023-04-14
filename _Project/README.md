@@ -153,13 +153,7 @@ You can get help from [Unity Asset Store](https://assetstore.unity.com/) for fre
 
 # Announcements
 
---------------------
-
-You cannot test hms-unity-plugin on Unity editor.
-
-For this
-
-You need
+You cannot test hms-unity-plugin on Unity editor. For this you need
 
 If you dont have android device :
 
@@ -168,7 +162,7 @@ https://developer.huawei.com/consumer/en/doc/development/AppGallery-connect-Guid
 
 If you want to use Physical Android Device:
 
-You have to download HMS Core to device.
+You have to download HMS Core.
 
 --------------------
 
