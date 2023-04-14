@@ -46,10 +46,10 @@ bunyamineymenalagoz@gmail.com until 17.04.2023.
 ### 4 - After completing first phase of project, release on your own github account.
 
 ### 5 - Then you mail the your project github url and your basic infos to 
-bunyamineymenalagoz@gmail.com until project first phase deadline (01.05.2023).
+bunyamineymenalagoz@gmail.com until project first phase deadline (10.05.2023).
 
 ### 6 - Then you mail the your project App Gallery link and your basic infos to 
-bunyamineymenalagoz@gmail.com until project second phase deadline (15.05.2023).
+bunyamineymenalagoz@gmail.com until project second phase deadline (19.05.2023).
 
 
 # Technical Details
