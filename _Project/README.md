@@ -153,16 +153,21 @@ You can get help from [Unity Asset Store](https://assetstore.unity.com/) for fre
 
 # Announcements
 
-You cannot test hms-unity-plugin on Unity editor. For this you need
+You must have any android device for having App Gallery account and 
+releasing your game on App Gallery. But you have to setup App Gallery
+and HMS Core.
 
-If you dont have android device :
+(If you dont have android device you can release your game on 
+your friend s App Gallery account.)
+
+You cannot test hms-unity-plugin on Unity editor. For this you can use
 
 Cloud Debugging
 https://developer.huawei.com/consumer/en/doc/development/AppGallery-connect-Guides/agc-clouddebug-introduction-0000001057034023
 
-If you want to use Physical Android Device:
+or 
 
-You have to download HMS Core.
+Android device having HMS Core apk.
 
 --------------------
 
