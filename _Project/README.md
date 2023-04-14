@@ -21,6 +21,9 @@ You can download the game on your mobile devices.
 
 [App Gallery](https://appgallery.huawei.com/app/C104480997)
 
+In this term this project will be team work (2 or 3)
+But Each team must have at least 1 android device and App Gallery account.
+
 # Phases
 
 ### 1 - If you don't have a github account, create a github account.
@@ -37,7 +40,7 @@ repositories on github.
 
 You are going to integrate Unity plugin into your project.
 
-### 2 - Mail your github account url , github username and your basic infos to 
+### 2 - Mail your github account url , github username ,your basic infos and teammates ID,Name and Surname to 
 
 bunyamineymenalagoz@gmail.com until 17.04.2023.
 
