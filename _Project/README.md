@@ -21,7 +21,7 @@ You can download the game on your mobile devices.
 
 [App Gallery](https://appgallery.huawei.com/app/C104480997)
 
-In this term this project will be team work (2 or 3)
+In this term this project will be team work (1 2 3 or 4)
 But Each team must have at least 1 android device and App Gallery account.
 
 # Phases
