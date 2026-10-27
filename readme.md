@@ -35,6 +35,8 @@ Final : %80
 
 - [:book: Github - Awesome Resources](https://github.com/Kavex/GameDev-Resources)
 
+- [:book: RespawnStack - AI Tools for Game Devs](https://respawnstack.com)
+
 - [:book: Github - Game References](https://github.com/leereilly/games/)
 
 - [:book: Github - Awesome Reference](https://github.com/UnityCommunity/UnityLibrary)
